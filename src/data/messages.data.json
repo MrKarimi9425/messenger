@@ -1,0 +1,38 @@
+[
+	{
+		"userId": 2,
+		"messages": {
+			"id": 1,
+			"message": "test",
+			"date": 2154454123,
+			"status": "send"
+		}
+	},
+	{
+		"userId": 1,
+		"messages": {
+			"id": 1,
+			"message": "test",
+			"date": 2154454123,
+			"status": "receive"
+		}
+	},
+	{
+		"userId": 2,
+		"messages": {
+			"id": 1,
+			"message": "test",
+			"date": 2154454123,
+			"status": "send"
+		}
+	},
+	{
+		"userId": 1,
+		"messages": {
+			"id": 1,
+			"message": "test",
+			"date": 2154454123,
+			"status": "send"
+		}
+	}
+]
